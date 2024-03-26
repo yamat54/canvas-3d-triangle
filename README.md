@@ -1,1 +1,1 @@
-# canvas-3d-triangle
+# Canvas 3D Triangle Sample
